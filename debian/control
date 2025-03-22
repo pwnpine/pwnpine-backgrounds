@@ -1,0 +1,20 @@
+Source: pwnpine-backgrounds
+Section: misc
+Priority: optional
+Maintainer: Joe <joe@rstrike.my.id>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.6.2
+Homepage: https://github.com/pwnpine/pwnpine-backgrounds/
+Vcs-Browser: https://github.com/pwnpine/pwnpine-backgrounds
+Vcs-Git: https://github.com/pwnpine/pwnpine-backgrounds.git
+
+Package: pwnpine-backgrounds
+Architecture: any
+Multi-Arch: foreign
+Depends:
+ ${shlibs:Depends},
+ ${misc:Depends},
+Description: This packages containt "PWN PINE" official
+ Wallpapers artwork.

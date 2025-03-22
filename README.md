@@ -1,2 +1,0 @@
-# pwnpine-backgrounds
-PWN PINE BACKGROUND PACKAGES COLLECTION
